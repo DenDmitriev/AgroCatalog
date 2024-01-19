@@ -9,3 +9,6 @@ Demo task for hh
 
 https://github.com/DenDmitriev/AgroCatalog/assets/65191747/3d51765a-bdf7-411f-8c62-d255b997f623
 
+## Stack
+- SwiftUI
+- Coordinator & Router

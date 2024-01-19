@@ -1,0 +1,62 @@
+[
+    {
+        "id": 7,
+        "icon": "/upload/drugs/categories//protraviteli_08fd860e.png",
+        "image": "/upload/drugs/categories//Протравитель_a928ffc8.png",
+        "name": "Протравители"
+    },
+    {
+        "id": 4,
+        "icon": "/upload/drugs/categories//gerbicidi_fb835dfd.png",
+        "image": "/upload/drugs/categories//Гербицид_f3caea59.png",
+        "name": "Гербициды"
+    },
+    {
+        "id": 8,
+        "icon": "/upload/drugs/categories//fungicidi_f5fe94a7.png",
+        "image": "/upload/drugs/categories//Фунгицид-01_f0114644.png",
+        "name": "Фунгициды"
+    },
+    {
+        "id": 6,
+        "icon": "/upload/drugs/categories//insekticidi_106266c8.png",
+        "image": "/upload/drugs/categories//Инсектицид_df15f07e.png",
+        "name": "Инсектициды"
+    },
+    {
+        "id": 9,
+        "icon": "/upload/drugs/categories//fumigati_8da92936.png",
+        "image": "/upload/drugs/categories//Фумигант-фон_8859ca05.png",
+        "name": "Фумиганты"
+    },
+    {
+        "id": 1,
+        "icon": "/upload/drugs/categories//desikanti_a1057641.png",
+        "image": "/upload/drugs/categories//Десикант-фон_3f658571.png",
+        "name": "Десиканты"
+    },
+    {
+        "id": 3,
+        "icon": "/upload/drugs/categories//insekto_d373947d.png",
+        "image": "/upload/drugs/categories//Инсектоакарицид-фон_4700cdbb.png",
+        "name": "Инсектоакарициды"
+    },
+    {
+        "id": 5,
+        "icon": "/upload/drugs/categories//rodenticidi_498d636b.png",
+        "image": "/upload/drugs/categories//родентицид_7ef57323.png",
+        "name": "Родентициды"
+    },
+    {
+        "id": 10,
+        "icon": "/upload/drugs/categories//Регулятор роста_Монтажная область 1_5ad00223.png",
+        "image": "/upload/drugs/categories//Геркулес, КЭ_5ad00223.png",
+        "name": "Регуляторы роста"
+    },
+    {
+        "id": 2,
+        "icon": "/upload/drugs/categories//pav_ad1f3192.png",
+        "image": "/upload/drugs/categories//Фон-ПАВ-и-Адьюванты_b00f80b5.png",
+        "name": "ПАВ и Адъюванты"
+    }
+]

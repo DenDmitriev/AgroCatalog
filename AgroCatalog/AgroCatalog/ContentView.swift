@@ -8,17 +8,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    @StateObject var coordinator: AgroCoordinator
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        AgroCoordinatorView(coordinator: coordinator)
     }
 }
 
 #Preview {
-    ContentView()
+    ContentView(coordinator: AgroCoordinator())
 }

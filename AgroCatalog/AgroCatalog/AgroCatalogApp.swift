@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct AgroCatalogApp: App {
+    
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            let coordinator = AgroCoordinator()
+            
+            ContentView(coordinator: coordinator)
         }
     }
 }
